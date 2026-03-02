@@ -36,6 +36,8 @@ Escape : exit
 - **Shooting system** — Basic weapon mechanics and projectiles
 - **Enemies / AI** — Basic enemy behaviour and interactions
 - **Levels / Maps** — Initial game environments
+- **Superpowers** — Superpowers like SuperJump, SuperSpeed... 
+- **Trophies** — Gold, silver and bronze
 
 --- 
 
