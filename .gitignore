@@ -1,0 +1,16 @@
+# Build
+target/
+dist/
+
+# Artefact
+*.todo
+*.lock
+*.toml
+*.odt
+*.blend
+*.blend1
+*.mp3
+*.wav
+
+# Private
+_local/
