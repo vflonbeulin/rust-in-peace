@@ -5,7 +5,6 @@ dist/
 # Artefact
 *.todo
 *.lock
-*.toml
 *.odt
 *.blend
 *.blend1
