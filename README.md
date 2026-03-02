@@ -1,15 +1,15 @@
-# 🔫 Rust in Peace
+# 🎮 Rust in Peace
 
 > A 3D First-Person Shooter built with Rust & Bevy — currently in active development.
 
 ![Status](https://img.shields.io/badge/status-WIP%20%2F%20Prototype-orange)
-![Rust](https://img.shields.io/badge/Rust-1.xx-orange?logo=rust)
-![Bevy](https://img.shields.io/badge/Bevy-0.xx-blue?logo=bevy)
+![Rust](https://img.shields.io/badge/Rust-1.93.0-orange?logo=rust)
+![Bevy](https://img.shields.io/badge/Bevy-0.18.0-blue?logo=bevy)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
-## 🎮 About
+## About
 
 **Rust in Peace** is a 3D FPS game prototype developed in [Rust](https://www.rust-lang.org/) using the [Bevy](https://bevyengine.org/) game engine. I wanted to learn Rust and understand 3D concepts.
 
@@ -57,7 +57,7 @@ rust-in-peace/
 ├── src/
 │   ├── main.rs          # Entry point
 │   ├── player/          # Player movement & controls
-│   ├── enemies/         # Enemy AI & behaviour
+│   ├── enemy/         # Enemy AI & behaviour
 │   ├── [...]
 │
 ├── assets/              # Textures, models, sounds
@@ -81,7 +81,7 @@ Please make sure your code compiles (`cargo build`) and is reasonably clean befo
 
 ---
 
-## 🎨 Credits
+## Credits
 
 This project uses the following assets
 
@@ -94,7 +94,7 @@ This project uses the following assets
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
