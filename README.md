@@ -1,6 +1,8 @@
+![Demo](demo.gif)
+
 # 🎮 Rust in Peace
 
-> A 3D First-Person Shooter built with Rust & Bevy — currently in active development.
+> A 3D First-Person Shooter built with Rust & Bevy.
 
 ![Status](https://img.shields.io/badge/status-WIP%20%2F%20Prototype-orange)
 ![Rust](https://img.shields.io/badge/Rust-1.93.0-orange?logo=rust)
@@ -12,6 +14,19 @@
 ## About
 
 **Rust in Peace** is a 3D FPS game prototype developed in [Rust](https://www.rust-lang.org/) using the [Bevy](https://bevyengine.org/) game engine. I wanted to learn Rust and understand 3D concepts.
+
+How to play (qwerty and azerty 🇫🇷 players) ?
+
+```bash
+w/z : forward
+s : backward
+a/q : left
+d : right
+Shoot with left click
+Escape : exit
+```
+
+*Note : Tested only on linux*
 
 ---
 
@@ -26,7 +41,7 @@
 
 ## 🛠️ Prerequisites
 
-- [Rust](https://www.rust-lang.org/tools/install) (latest stable)
+- [Rust](https://www.rust-lang.org/tools/install)
 - Cargo (included with Rust)
 
 ---
@@ -47,6 +62,9 @@ For a release build (better performance):
 ```bash
 cargo run --release
 ```
+
+First time with bevy ? Plz read this about compilation times : 
+https://bevy.org/learn/quick-start/getting-started/setup/
 
 ---
 
